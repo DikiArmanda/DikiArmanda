@@ -6,7 +6,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DikiArmanda&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DikiArmanda&theme=tokyonight&hide_border=false&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DikiArmanda&theme=tokyonight&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DikiArmanda&theme=tokyonight&layout=compact&count_private=true)<br>
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DikiArmanda&theme=tokyonight&repo=AppStore)
 
 ## 🌐 Socials:
