@@ -2,7 +2,7 @@
 
 💬 i'm frontend developer
 - 🔭 I am now working as a software engineer at the directorate of technology and information systems of the Muhammadiyah University of Sidoarjo.
-- 🌱 I’m currently learning React.js & Laravel 11.
+- 🌱 I'm now learning about react.js and laravel 11.
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DikiArmanda&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DikiArmanda&theme=tokyonight&hide_border=false&count_private=true)
